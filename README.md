@@ -1,2 +1,1 @@
 # cursoDefinitivoHtml
-#claseImagen
